@@ -41,8 +41,6 @@ I recommended a lot of lot of podcasts in the above sections, so you will need a
 Overcast is free, and to suppor [the developer](https://marco.org/about), there is a [voluntary patronage](https://marco.org/2015/10/09/overcast2).
 
 
-#Conclusion
-I hope I've given you a whole host of new things to listen to and read in the new year. Have a Merry Christmas, and a Happy New Year!
 
 
-*Last Updated: Wenesday, December 22, 2015 @ 11:11 PM*
+*Last Updated: Wenesday, December 22, 2015 @ 11:25 PM*
