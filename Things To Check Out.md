@@ -38,9 +38,10 @@ I recommended a lot of lot of podcasts in the above sections, so you will need a
 * Smart Speed - Smart Speed dynamically shortens silences in talk shows. Conversations still sound natural.
 * Voice Boost - Boost and normalize volume so every show is loud, clear, and at the same volume. Listen in more places, such as noisy cars, and still hear what everyone says without cranking the volume so high for quiet people that the loud ones blow your ears out.
 * Smarter Playlists - Create show priorities, filters, and sorting rules, or keep it simple with one big list.
+
 Overcast is free, and to suppor [the developer](https://marco.org/about), there is a [voluntary patronage](https://marco.org/2015/10/09/overcast2).
 
 
 
 
-*Last Updated: Wenesday, December 22, 2015 @ 11:32 PM*
+*Last Updated: Thursday, December 24, 2015 @ 11:37 PM*
