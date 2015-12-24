@@ -16,7 +16,7 @@ The tagline for Hypercritical is: "A weekly talk show ruminating on exactly what
 There really is no way to describe Hello Internet except that it contains insightful and entertaing discussion on pretty much anything. Start on episode 1 and go all the way up to 53(or whatever the latest episode is at the time of reading), you'll get hooked.
 
 ####[Relay FM](https://www.relay.fm/)
-Relay FM is not just one podcast, it's a whole network of podcasts, hosting podcasts with topics all the way from [gaming](https://www.relay.fm/isometric), [to technology](https://www.relay.fm/upgrade), [to pens](https://www.relay.fm/penaddict), and all the way to [space travel](https://www.relay.fm/liftoff) and [gender equallity](https://www.relay.fm/ltoe), [and more](https://www.relay.fm/shows).
+Relay FM is not just one podcast, it's a whole network of podcasts, hosting podcasts with topics all the way from [gaming](https://www.relay.fm/isometric), [to technology](https://www.relay.fm/upgrade), [to pens](https://www.relay.fm/penaddict), and all the way to [space travel](https://www.relay.fm/liftoff) and [gender equallity](https://www.relay.fm/ltoe), [plus more](https://www.relay.fm/shows).
 
 
 #Things to Read
@@ -28,6 +28,17 @@ The Daring Fireball blog is run by [John Gruber](https://en.wikipedia.org/wiki/J
 ####[John Siracusa's OS X Reviews (Retired)](http://hypercritical.co/2015/04/15/os-x-reviewed)
 John Siracusa has also reviewed every release of OS X for 15 years, from Mac OS X 10.0 to OS X 10.10 Yosemite. He has stopped for many reasons, but reading all of them can give you insights on the history of the Mac, the core internals of OS X, and great discussion on Apple's GUI design. Another must-read.
 
+
+
+#Apps
+
+####[Overcast](https://overcast.fm)
+I recommended a lot of lot of podcasts in the above sections, so you will need an app to listen to them. Overcast contains many useful features:
+
+* Smart Speed - Smart Speed dynamically shortens silences in talk shows. Conversations still sound natural.
+* Voice Boost - Boost and normalize volume so every show is loud, clear, and at the same volume. Listen in more places, such as noisy cars, and still hear what everyone says without cranking the volume so high for quiet people that the loud ones blow your ears out.
+* Smarter Playlists - Create show priorities, filters, and sorting rules, or keep it simple with one big list.
+Overcast is free, and to suppor [the developer](https://marco.org), there is a [voluntary patronage](https://marco.org/2015/10/09/overcast2).
 
 
 #Conclusion
