@@ -1,4 +1,4 @@
-There are many things that I have "discovered", per se, since my last Skype status update. Check them out:
+Here are things that I think that you should check out:
 
 #Podcasts
 Podcasts are a great way to take in information. Here are a few that I recomend:
@@ -43,4 +43,4 @@ Overcast is free, and to suppor [the developer](https://marco.org/about), there 
 
 
 
-*Last Updated: Wenesday, December 22, 2015 @ 11:25 PM*
+*Last Updated: Wenesday, December 22, 2015 @ 11:32 PM*
