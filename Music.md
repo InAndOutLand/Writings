@@ -1,5 +1,6 @@
 #Fixing Apple Music
 There are two main confusions with [Apple Music][am]:
+
 1. Should I use iTunes Store or Apple Music?
 2. What's the difference between Apple Music and iTunes Match?
 
