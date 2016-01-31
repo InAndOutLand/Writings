@@ -14,7 +14,3 @@ Now, of course, there are hurdles to getting these solutions in place, like [neg
 [stream]:http://www.macrumors.com/roundup/streaming-tv-service/
 [match]:http://www.apple.com/itunes/itunes-match/
 [neg]:http://www.macrumors.com/2015/05/20/apple-streaming-music-multi-country-availability/
-
-
-
-
