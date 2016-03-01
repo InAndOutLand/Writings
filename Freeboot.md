@@ -12,3 +12,8 @@ ContentID is a system that automatically detects infringment of content by a per
 What's more, these freeboot trolls might not even own any content! (just like patent trolls, ironically) And with the way YouTube has set up it's ContentID system, the person or company that has claimed infringment will get all of the advertising revenue from that video, therfore, you have instant profit with little to no work done at all.
 
 Patent trolls and freeboot trolls are the exact same thing, the only difference being the works and the people being trolled.
+___________
+
+[viewjacking]:http://hellointernet.fm/5
+[CID]:https://support.google.com/youtube/answer/2797370?hl=en
+[fb]:https://www.youtube.com/watch?v=L6A1Lt0kvMA
