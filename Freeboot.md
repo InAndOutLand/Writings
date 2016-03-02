@@ -1,5 +1,5 @@
 #Freeboot Trolls
-Patent trolls are people (or compainies, more rather) who make a "fake patent," in essence, claim that someone has infringed on that patent, and then, that someone will probably settle to avoid the useless-ness that is going to trial in court. Profit is made for the patent trolls, that's why they exist. Patent trollls are the main thing that's wrong with the patent system.
+Patent trolls are people (or compainies, more rather) who make a "fake patent," in essence, claim that someone has infringed on that patent, and then, that someone will probably settle to avoid the useless-ness that is going to trial in court. Profit is made for the patent trolls, that's why they exist. Patent trollls are one of the main thing that's wrong with the patent system.
 
 There's also another type of troll that's been in the news lateley. They're **freebot trolls**. 
 
