@@ -18,7 +18,7 @@ One of digital's strengths is how you can reproduce analog imperfections. As dig
 
 The botttom line is that the best way to capture accurately the original sound waves that traveled through air is digital, *not* analog. All analog techniques produce extra inaccuracies that would be heard with digital techniques. This, however, bars how *you* feel when you're listening to music. For some people, analog sounds better to them than digital. You shouldn't stop someone from expirencing music in the best way for them. But, there should be a clear line when we're talking about analog and digital about the objective and the subjective.
 
-You, your experiences, your prefererences—that's subjective. Science is objective. And now, science[^1] says that digital is the most accurate way to record sound.
+You, your experiences, your prefererences—that's subjective. Science is objective. And now, science a href="#1">^1</a> says that digital is the most accurate way to record sound.
 
 
 
@@ -39,5 +39,4 @@ P.S.: Don't get me started on film versus digital.
 [sig]:https://wiki.xiph.org/Videos/Digital_Show_and_Tell
 [q]:https://en.wikipedia.org/wiki/Comparison_of_analog_and_digital_recording#Quantization
 
-
-[^1]: Sort of really not kida science.
+<a name="1">1.  Sort of really not kida science.</a>
