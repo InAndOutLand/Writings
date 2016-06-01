@@ -36,4 +36,4 @@ P.S.: Don't get me started on film versus digital.
 [cd]:https://en.wikipedia.org/wiki/Compact_disc
 [w]:http://arts.guardian.co.uk/fridayreview/story/0,12102,1049363,00.html
 [nos]:https://en.wikipedia.org/wiki/Nostalgia
-[sig]:https://wiki.xiph.org/Videos/Digital_Show_And_Tell
+[sig]:https://wiki.xiph.org/Videos/Digital_Show_and_Tell
