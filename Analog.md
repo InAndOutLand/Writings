@@ -37,3 +37,4 @@ P.S.: Don't get me started on film versus digital.
 [w]:http://arts.guardian.co.uk/fridayreview/story/0,12102,1049363,00.html
 [nos]:https://en.wikipedia.org/wiki/Nostalgia
 [sig]:https://wiki.xiph.org/Videos/Digital_Show_and_Tell
+[q]:https://en.wikipedia.org/wiki/Comparison_of_analog_and_digital_recording#Quantization
