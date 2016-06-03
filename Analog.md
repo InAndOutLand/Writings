@@ -40,3 +40,4 @@ P.S.: Don't get me started on film versus digital.
 [q]:https://en.wikipedia.org/wiki/Comparison_of_analog_and_digital_recording#Quantization
 
 1.  Sort of really not kida science.
+______
